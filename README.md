@@ -9,6 +9,11 @@ I am currently finishing my degree, with a strong focus on software architecture
 **Bachelor Project: Kanban Web App**
 I am currently developing a full-featured Kanban board application for students using **JavaScript**. This project focuses on taking notes, drag-and-drop logic, and UI responsiveness.
 
+**Pomodoro App**
+My final course that isn't the bachelor project is making an app with Node.JS. I've decided to make a Pomodoro application where you can make tasks in sync with other people, and then have a shared work session.
+
+---
+
 **Game Development (Side Projects)**
 I use **Godot** with the **.NET framework (C#)** for my personal projects.
 
