@@ -2,7 +2,7 @@
 My name is Yuna 
 I am a final-year student specializing in **Multimedia Technology and Design**.
 
-I am currently finishing my degree, with a strong focus on software architecture and interactive applications. While I am building web applications today, my long-term ambition is to work full-time in **Game Development**.
+I am currently finishing my degree, with a strong focus on software architecture and interactive applications. While I am building web applications today, my long-term ambition is to become skilled enough to work full-time as a **.NET Developer**.
 
 ### Current Projects
 
