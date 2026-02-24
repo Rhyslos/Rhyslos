@@ -1,43 +1,34 @@
-## Hi there! 👋
-My name is Yuna.
-
-I am a final-year student specializing in **Multimedia Technology and Design**, with a strong focus on software architecture and interactive applications. While I am building web applications today, my long-term ambition is to become a full-time **.NET Developer**.
+# Yuna | Web Development & Multimedia Technology
+Final-year **Multimedia Technology and Design** student with a focus on building web-based applications and exploring interactive tools. Currently expanding technical expertise in **Node.js** and utilizing **C#** for game development projects.
 
 ---
 
-### 🌐 Front-End & Web Development
+### Web Development
+Focusing on the design and implementation of functional, student-centric productivity tools.
 
-I am currently focused on building responsive, interactive, and collaborative web applications.
+* **Kanban Management System** (Bachelor Project - In Progress)
+    * A workflow optimization tool targeted specifically at student academic management. Built with JavaScript, featuring complex drag-and-drop logic and persistent data handling.
+* **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)** (In Development)
+    * A study session timer designed for students, built with Node.js. Features task-posting capabilities to foster accountability and shared focus.
 
-* **[Pomodoro App](https://github.com/Rhyslos/Pomodoro-App)** (In Progress)
-  A Node.js application featuring synchronized tasks and shared work sessions for collaborative productivity.
-* **Kanban Web App** (Bachelor Project)
-  A full-featured Kanban board for students built with JavaScript, emphasizing note-taking, complex drag-and-drop logic, and UI responsiveness.
+### Game Development
+Exploring game mechanics and logic in my free time to build familiarity with C# and the Godot Engine. 
 
-### 🎮 Game Development
-
-I use **Godot** with the **.NET framework (C#)** for my personal projects, blending my passion for interactive media with my goal of mastering C#.
-
-* **[Brackeys Game Jam 2026.1](https://github.com/Rhyslos/Brackeys-Game-Jam-2026-1)** (Completed)
-  My latest publicly available game project, developed using Godot and C#. 
+* **Lavendelle** (In Development)
+    * Serving as the **Main Developer** for an upcoming 2D title. This is a collaborative private project currently being prepared for a future Steam release.
+* **[Brackeys Game Jam 2026.1](https://github.com/Rhyslos/Brackeys-Game-Jam-2026-1)**
+    * A project developed during a competitive game jam, serving as a practical introduction to implementing C# scripts within the Godot Engine.
+* **[View my work on Itch.io](https://rhyslos.itch.io/)**
 
 ---
 
-### 💻 Technical Skills
+### Technical Proficiency
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C# (.NET), JavaScript, HTML, CSS |
-| **Game Engines** | Godot Engine, Unreal Engine |
-| **3D & Design** | Animation, Modelling, Texturing |
-| **Tools** | Git, Visual Studio, 3Ds Max, Cinema 4D, Blender, DaVinci Resolve |
+| **Languages** | JavaScript (ES6+), C# (Basic/Godot), HTML5, CSS3 |
+| **Engines & Frameworks** | Node.js, Godot Engine, Unreal Engine |
+| **Creative Assets** | 3D Modeling, Texturing, Animation, Technical Illustration |
+| **Tools & Workflow** | Git, Visual Studio, 3ds Max, Blender, Cinema 4D, DaVinci Resolve |
 
 ---
-
-### ☕ Personal & Interests
-
-When I step away from the keyboard, I focus on a few specific interests:
-
-* **Photography:** I am a massive camera gear geek. I love the technical side of photography as much as the composition.
-* **Tea:** I am a dedicated tea enthusiast.
-* **Opinions:** I firmly believe cats are vastly superior to dogs.
