@@ -6,7 +6,7 @@ Final-year **Multimedia Technology and Design** student with a focus on building
 ### Web Development
 Focusing on the design and implementation of functional, student-centric productivity tools.
 
-* **[Multitask](https://github.com/Rhyslos/Multitask)** (Bachelor Project - In Progress)
+* **[Multitask](https://github.com/Rhyslos/Multitask)** (Bachelor Project - In Development)
     * A workflow optimization tool targeted specifically at student academic management. Built with JavaScript, featuring complex drag-and-drop logic and persistent data handling.
 * **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)** (In Development)
     * A study session timer designed for students, built with Node.js. Features task-posting capabilities to foster accountability and shared focus.
