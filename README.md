@@ -8,8 +8,13 @@ Focusing on the design and implementation of functional, student-centric product
 
 * **[Multitask](https://github.com/Rhyslos/Multitask)** (Bachelor Project - In Development)
     * A workflow optimization tool targeted specifically at student academic management. Built with JavaScript, featuring complex drag-and-drop logic and persistent data handling.
-* **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)** (In Development)
-    * A study session timer designed for students, built with Node.js. Features task-posting capabilities to foster accountability and shared focus.
+* **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)**
+    *A **full-stack SPA** (Single Page Application) architected for **high-concurrency** group focus.
+
+    * **State Management:** Real-time state propagation via **SSE (Server-Sent Events)** and optimized in-memory session handling.
+    * **Security-First:** Implements **secure password hashing (scrypt)** and persistent, tokenized authentication.
+    * **Global Scalability:** Seamless **i18n integration** (EN/NO/KO) and custom **PostgreSQL** data persistence.
+    * **Performance:** Optimized **Vanilla ES Modules** architecture for a framework-agnostic, lightning-fast UI.
 
 ### Game Development
 Exploring game mechanics and logic in my free time to build familiarity with C# and the Godot Engine. 
