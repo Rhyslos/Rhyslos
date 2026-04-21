@@ -9,7 +9,7 @@ Focusing on the design and implementation of functional, student-centric product
 * **[Multitask](https://github.com/Rhyslos/Multitask)** (Bachelor Project - In Development)
     * A workflow optimization tool targeted specifically at student academic management. Built with JavaScript, featuring complex drag-and-drop logic and persistent data handling.
 * **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)**
-    *A **full-stack SPA** (Single Page Application) architected for **high-concurrency** group focus.
+    * **A full-stack SPA** (Single Page Application) architected for **high-concurrency** group focus.
 
     * **State Management:** Real-time state propagation via **SSE (Server-Sent Events)** and optimized in-memory session handling.
     * **Security-First:** Implements **secure password hashing (scrypt)** and persistent, tokenized authentication.
