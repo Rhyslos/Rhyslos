@@ -27,9 +27,9 @@ Exploring game mechanics and logic in my free time to build familiarity with C# 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), C# (Basic/Godot), HTML5, CSS3 |
-| **Engines & Frameworks** | Node.js, Godot Engine, Unreal Engine |
-| **Creative Assets** | 3D Modeling, Texturing, Animation, Technical Illustration |
+| **Languages** | JavaScript (ES6+), TypeScript, C# (Basic/Godot), HTML5, CSS3, SQL |
+| **Engines & Frameworks** | Node.js, React, Express, Godot Engine, Unreal Engine |
+| **Creative Assets** | 3D Modeling, Texturing, Animation |
 | **Tools & Workflow** | Git, Visual Studio, 3ds Max, Blender, Cinema 4D, DaVinci Resolve |
 
 ---
