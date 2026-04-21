@@ -7,14 +7,10 @@ Final-year **Multimedia Technology and Design** student with a focus on building
 Focusing on the design and implementation of functional, student-centric productivity tools.
 
 * **[Multitask](https://github.com/Rhyslos/Multitask)** (Bachelor Project - In Development)
-    * A workflow optimization tool targeted specifically at student academic management. Built with JavaScript, featuring complex drag-and-drop logic and persistent data handling.
-* **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)**
-    * **A full-stack SPA** (Single Page Application) architected for **high-concurrency** group focus.
+    * An advanced **Local-First project management platform** architected with **React** and **Node.js**, featuring a **distributed SQLite-in-browser** persistence layer for high-performance offline capabilities. The system integrates **Conflict-free Replicated Data Types (CRDTs)** via Y.js for real-time collaborative notation and a custom **high-throughput SSE synchronization engine** for Kanban and task management.
 
-    * **State Management:** Real-time state propagation via **SSE (Server-Sent Events)** and optimized in-memory session handling.
-    * **Security-First:** Implements **secure password hashing (scrypt)** and persistent, tokenized authentication.
-    * **Global Scalability:** Seamless **i18n integration** (EN/NO/KO) and custom **PostgreSQL** data persistence.
-    * **Performance:** Optimized **Vanilla ES Modules** architecture for a framework-agnostic, lightning-fast UI.
+* **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)**
+    * A **full-stack SPA** developed for students with collaboration in mind. This platform leverages a **real-time state propagation engine** via **SSE (Server-Sent Events)** and optimized in-memory session handling. Engineered with a **security-first** approach, it implements **secure scrypt password hashing** and persistent tokenized authentication to ensure robust user identity management. The system is designed for **global scalability**, featuring seamless **i18n integration** (EN/NO/KO) alongside custom **PostgreSQL** data persistence. By utilizing an optimized **Vanilla ES Modules** architecture, the application delivers a framework-agnostic, lightning-fast UI with high-performance DOM execution.
 
 ### Game Development
 Exploring game mechanics and logic in my free time to build familiarity with C# and the Godot Engine. 
