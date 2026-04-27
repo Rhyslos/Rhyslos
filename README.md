@@ -7,7 +7,7 @@
 
 ## About Me
 
-My background combines technology with design education, which shapes how I approach building software. Where most developers think purely in terms of functionality, I also think about user experience and visual design, not as a separate discipline, but as part of writing good code.
+My background combines technology with design education, which shapes how I approach building software. Where most developers think purely in terms of functionality, I also think about user experience and visual design, not as a separate discipline, but as part of developing good user experiences.
 
 Most of my projects start as tools I actually want to exist. I primarily build full-stack web apps in the JavaScript ecosystem, but I'm actively expanding into Android (Kotlin) and Game Dev (C# / Godot).
 
