@@ -99,6 +99,6 @@ Players join via mobile browsers over a local network. Built with an admin autho
 ## GitHub Stats
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rhyslos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyslos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Rhyslos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rhyslos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
