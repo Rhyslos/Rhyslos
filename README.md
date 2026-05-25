@@ -1,81 +1,41 @@
 <div align="center">
   <h1>Yuna</h1>
-  <p><b>Full-Stack Web App & Android Developer</b></p>
+  <p><b>Web, Game, & Android Developer</b></p>
 </div>
 
 ---
 
 ## About Me
 
-My background spans from 3D Game Design to a bachelor's degree in Multimedia Technology and Design. This journey has shaped how I approach building software. Game development sparked my initial interest in programming, but I quickly realized I wanted to dive deeper into the code and create solutions that actually feel great to use.
-
-While I have a strong full-stack foundation in the JavaScript ecosystem to understand the big picture of app architecture, I originally fell in love with the strongly-typed nature of C# through Godot. However, I missed the fun, visual design aspect in standard C# workflows. That's how I discovered **Android development (Kotlin)**—the absolute perfect middle ground for me, combining robust coding with engaging UI/UX.
-
-I am a tinkerer at heart who is almost always working on something. When I'm not coding, you'll probably find me building PCs, hosting gaming servers, 3D modeling, doing photography, or skateboarding. 
-
-- 🎓 **Bachelor's Project:** Expanding internal tools I built for my game dev team into a full real-time collaborative web app.
-- 📱 **Android Focus:** Actively building a custom Kotlin app outside of coursework to master the native platform.
-- 🎮 **Game Dev:** Leading a 4-person indie game development group as the main developer and designer.
-
----
-
-## What Sets Me Apart
-
-My degree taught me to think about the full picture of a product: how it looks, how it communicates, and how it feels to use. I apply that to every project I build, thinking about information hierarchy, user flow, and visual consistency as part of the development process rather than something added at the end. 
-
-I also believe in building a rock-solid core foundation. While I am highly efficient with AI tools for prototyping, I frequently challenge myself to build projects completely *without* AI assistance to ensure I deeply understand the platforms I work with from the ground up.
+My programming journey started in web development. From there, I transitioned into game development using Godot and C#, where I fell in love with strongly-typed languages. Currently, I'm shifting my focus to native Android development with Kotlin. It's turned out to be the perfect middle ground for me, combining structured coding with fun UI.
 
 ---
 
 ## Featured Projects
 
-### [Multitask](https://github.com/Rhyslos/Multitask) `In Development` `Bachelor Project`
-*Real-time collaborative project management platform.*
+*   **[Multitask](https://github.com/Rhyslos/Multitask)** `In Dev` `Bachelor Project` 
+    A real-time collaborative project management workspace for my game dev team, featuring Kanban boards, rich-text notation, and seamless live syncing.
+    *Tech:* `React` `Node.js` `SQLite` `Y.js` `SSE`
 
-My bachelor's project. This evolved from simple Google Apps Script tools I initially built to organize my 4-person game dev team's workflow. It is now a complete workspace built to handle all our work outside the game engine, featuring shared Kanban boards, a rich-text notation editor, and a mindmap/graph editor. It uses a custom SSE system and Y.js to power seamless live collaboration.
+*   **[Android Card Prompt Game](https://github.com/Rhyslos/Android-Card-Prompt-Game)** `In Dev`
+    A custom native Android party game pulling live prompts from Google Sheets. I am building this entirely without AI assistance to master native mobile fundamentals.
+    *Tech:* `Kotlin` `Android` `Google Apps Script`
 
-**Tech:** `React` `Node.js` `Express` `SQLite` `TipTap` `Y.js` `Vite` `SSE`
+*   **[Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)** 
+    A real-time multiplayer Pomodoro timer for study groups featuring strict custom client-side timer interpolation to prevent countdown drift.
+    *Tech:* `Vanilla JS` `Node.js` `PostgreSQL` `SSE`
 
----
+*   **Trivia Quiz App** `Private` 
+    A self-hosted LAN multiplayer Kahoot alternative with real-time syncing for instantaneous game events.
+    *Tech:* `Node.js` `Express` `SQLite` `WebSockets`
 
-### [Android Card Prompt Game](https://github.com/Rhyslos/Android-Card-Prompt-Game) `In Development`
-*Personalised party card game for Android.*
-
-A custom Kotlin app inspired by the Norwegian app Børst. It pulls live prompts from a linked Google Sheet via Google Apps Script. **I am developing this entirely without AI assistance with a strict deadline for June 22nd** to build concrete, fundamental experience with native Android development.
-
-**Tech:** `Kotlin` `Android` `Google Apps Script` `Google Sheets` `JSON`
-
----
-
-### [Pomodoro Collaborative App](https://github.com/Rhyslos/Pomodoro-App)
-*Real-time multiplayer Pomodoro timer.*
-
-A full-stack SPA for study groups with room-based collaboration for up to 16 participants. Features host transfer, room locking, and custom client-side timer interpolation synced with server timestamps to strictly prevent countdown drift.
-
-**Tech:** `Vanilla JS` `Node.js` `Express` `PostgreSQL` `SSE` `scrypt` `Web Components` `i18n (EN/NO/KO)`
+*   **Lavendelle & [Brackeys Game Jam 2026.1](https://github.com/Rhyslos/Brackeys-Game-Jam-2026-1)**
+    Leading a 4-person indie game dev group for an upcoming 2D Steam release, alongside competitive game jam entries and published [Itch.io releases](https://rhyslos.itch.io/).
+    *Tech:* `Godot` `C#`
 
 ---
 
-### Trivia Quiz App `Temporarily Private`
-*Self-hosted LAN multiplayer Kahoot alternative.*
-
-Players join via mobile browsers over a local network. Built with an admin authoring panel and real-time WebSocket syncing for instantaneous game events.
-
-**Tech:** `Node.js` `Express` `SQLite` `WebSockets` `LAN Multiplayer`
-
----
-
-## Game Development
-
-| Project | Description |
-| :--- | :--- |
-| **Lavendelle** *(Private)* | Upcoming 2D title. Serving as the main developer for my 4-person collaborative group, targeting a future Steam release. |
-| **[Brackeys Game Jam 2026.1](https://github.com/Rhyslos/Brackeys-Game-Jam-2026-1)** | Competitive jam entry and introduction to C# scripting in Godot. |
-| **[Itch.io](https://rhyslos.itch.io/)** | Published releases. |
-
----
-
-## Tech Stack
+## Tech Stack & Stats
 
 **Web**
 
@@ -98,11 +58,15 @@ Players join via mobile browsers over a local network. Built with an admin autho
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
----
-
-## GitHub Stats
+<br>
 
 <div align="left">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=Rhyslos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rhyslos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+---
+
+## What I Like to Build
+
+I love building projects that bridge the gap between complex data architecture and highly engaging user experiences. Whether I'm tinkering with a real-time multiplayer workspace, an interactive indie game, or a strongly-typed native Kotlin application, I enjoy diving deep into the fundamentals. I challenge myself to deeply understand the platforms I work with from the ground up to craft collaborative tools and apps that just *feel* great to use.
