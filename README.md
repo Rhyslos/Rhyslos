@@ -12,12 +12,15 @@ My programming journey started in web development. From there, I transitioned in
 ---
 
 ## Featured Projects
+*   **[Nodelit]([https://github.com/Rhyslos/Multitask](https://github.com/Rhyslos/Nodelit))**
+    A rebuilt live-only remake of Multitask running privately on Render. The app is being used to manage the development of Lavendelle for my game dev team.
+    *Tech:* `React` `Node.js` `PostgreSQL` `Y.js` `ws` `tiptap`
 
 *   **[Multitask](https://github.com/Rhyslos/Multitask)** `In Dev` `Bachelor Project` 
     A real-time collaborative project management workspace for my game dev team, featuring Kanban boards, rich-text notation, and seamless live syncing.
     *Tech:* `React` `Node.js` `SQLite` `Y.js` `SSE`
 
-*   **[Android Card Prompt Game](https://github.com/Rhyslos/Android-Card-Prompt-Game)** `In Dev`
+*   **[Android Card Prompt Game](https://github.com/Rhyslos/Android-Card-Prompt-Game)**
     A custom native Android party game pulling live prompts from Google Sheets. I am building this entirely without AI assistance to master native mobile fundamentals.
     *Tech:* `Kotlin` `Android` `Google Apps Script`
 
