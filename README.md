@@ -7,7 +7,7 @@
 
 ## About Me
 
-My programming journey started in web development. From there, I transitioned into game development using Godot and C#, where I fell in love with strongly-typed languages. Currently, I'm shifting my focus to native Android development with Kotlin. It's turned out to be the perfect middle ground for me, combining structured coding with fun UI.
+I try my hands at a lot of different things. Recently graduated from UiA with a bachelor in Multimediatechnology and design. I primarily focus on web apps and game dev, but i'm also testing Kotlin for fun. Check out my projects below!
 
 ---
 
@@ -69,7 +69,3 @@ My programming journey started in web development. From there, I transitioned in
 </div>
 
 ---
-
-## What I Like to Build
-
-I love building projects that bridge the gap between complex data architecture and highly engaging user experiences. Whether I'm tinkering with a real-time multiplayer workspace, an interactive indie game, or a strongly-typed native Kotlin application, I enjoy diving deep into the fundamentals. I challenge myself to deeply understand the platforms I work with from the ground up to craft collaborative tools and apps that just *feel* great to use.
