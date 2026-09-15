@@ -12,7 +12,7 @@ My programming journey started in web development. From there, I transitioned in
 ---
 
 ## Featured Projects
-*   **[Nodelit]([https://github.com/Rhyslos/Multitask](https://github.com/Rhyslos/Nodelit))**
+*   **[Nodelit](https://github.com/Rhyslos/Nodelit)**
     A rebuilt live-only remake of Multitask running privately on Render. The app is being used to manage the development of Lavendelle for my game dev team.
     *Tech:* `React` `Node.js` `PostgreSQL` `Y.js` `ws` `tiptap`
 
