@@ -13,7 +13,7 @@ I try my hands at a lot of different things. Recently graduated from UiA with a 
 
 ## Featured Projects
 *   **[Nodelit](https://github.com/Rhyslos/Nodelit)**
-    A rebuilt live-only remake of Multitask running privately on Render. The app is being used to manage the development of Lavendelle for my game dev team.
+    A rebuilt live-only version of Multitask running privately on Render. The app is being used to manage the development of Lavendelle for my game dev team.
     *Tech:* `React` `Node.js` `PostgreSQL` `Y.js` `ws` `tiptap`
 
 *   **[Multitask](https://github.com/Rhyslos/Multitask)** `In Dev` `Bachelor Project` 
