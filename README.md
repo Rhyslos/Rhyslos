@@ -3,7 +3,7 @@
 Web, game and Android developer. I recently graduated from UiA with a bachelor's in Multimedia Technology and Design. I mainly build web apps and games, and I'm testing Kotlin for fun.
 
 <details>
-<summary><h4>Web</h4></summary>
+<summary><b>Web</b></summary>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
@@ -23,7 +23,7 @@ Web, game and Android developer. I recently graduated from UiA with a bachelor's
 - **Date Night** (private) – swipe through hangout ideas with friends until you match.
 
 <details>
-<summary><h4>Games</h4></summary>
+<summary><b>Games</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
@@ -37,7 +37,7 @@ Web, game and Android developer. I recently graduated from UiA with a bachelor's
 All my games are on [itch.io/rhyslos](https://rhyslos.itch.io/).
 
 <details>
-<summary><h4>Android</h4></summary>
+<summary><b>Android</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white" alt="Android">
