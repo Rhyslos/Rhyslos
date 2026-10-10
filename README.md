@@ -1,6 +1,16 @@
 ### Hi, I'm Yuna
 
-Web, game and Android developer. I recently graduated from UiA with a bachelor's in Multimedia Technology and Design. I mainly build web apps and games, and I'm testing Kotlin for fun.
+Web developer at heart. I recently graduated from UiA with a bachelor's in Multimedia Technology and Design, and web apps are where I spend most of my time, from real-time collaboration tools to full-stack projects. Outside the browser I make games and Garry's Mod addons, build my own game dev tools in Rust, and test Kotlin for fun.
+
+#### [Rhy's Library](https://github.com/Rhyslos/Rhylib-Gmod-Addon-Suite)
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Garry's_Mod-1194F0?style=flat&logo=steam&logoColor=white" alt="Garry's Mod">
+  <img src="https://img.shields.io/badge/DarkRP-4A4A55?style=flat" alt="DarkRP">
+</p>
+
+My biggest project: a complete Clone Wars RP addon suite for Garry's Mod, with everything a server needs in one place. A shared core handles networking, saving, permissions, config and profiling, and every system (weapons, HUD, stamina, medic, inventory and more) is its own addon that hosts can add or leave out. It's built performance first, for servers with 80 players plus NPC droids, with arcade combat in the spirit of the old Battlefront II, modernised and inspired by the Clone Wars show.
 
 <details>
 <summary><b>Web</b></summary>
@@ -20,7 +30,6 @@ Web, game and Android developer. I recently graduated from UiA with a bachelor's
 - **[Nodelit](https://github.com/Rhyslos/Nodelit)** – live-only rebuild of Multitask that manages Lavendelle's development.
 - **[Multitask](https://github.com/Rhyslos/Multitask)** – my bachelor project: a real-time team workspace with Kanban boards and rich-text notes.
 - **[Pomodoro App](https://github.com/Rhyslos/Pomodoro-App)** – multiplayer study timer with drift-free countdowns.
-- **Date Night** (private) – swipe through hangout ideas with friends until you match.
 
 <details>
 <summary><b>Games</b></summary>
@@ -33,8 +42,19 @@ Web, game and Android developer. I recently graduated from UiA with a bachelor's
 - **Lavendelle** – 2D game in development for Steam, with my 4-person indie team.
 - **[Q-T34](https://rhyslos.itch.io/q-t34)** – puzzle game for GMTK Game Jam 2026.
 - **[Escape Desolation](https://rhyslos.itch.io/escape-desolation)** – 3D survival game for Brackeys Game Jam 2026.1 ([source](https://github.com/Rhyslos/Brackeys-Game-Jam-2026-1)).
-
 All my games are on [itch.io/rhyslos](https://rhyslos.itch.io/).
+
+<details>
+<summary><b>Tools</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/wgpu-4A4A55?style=flat&logoColor=white" alt="wgpu">
+  <img src="https://img.shields.io/badge/egui-4A4A55?style=flat&logoColor=white" alt="egui">
+</p>
+</details>
+
+- **[Halberd Map Editor](https://github.com/Rhyslos/halberd)** – a modern, 3D-first map editor for Garry's Mod, built as the friendlier alternative to Hammer. It runs beyond Windows, has an all-in-one transform gizmo, and round-trips Hammer maps without losing a thing. Fast compiles, automatic optimisation and Workshop publishing are on the way.
+- **[Aventail 3D](https://github.com/Rhyslos/Aventail-3D)** – open-source hard-surface modelling and UV tool for game assets, with clean export to Godot and Substance Painter.
 
 <details>
 <summary><b>Android</b></summary>
