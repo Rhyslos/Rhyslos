@@ -2,6 +2,19 @@
 
 Web developer at heart. I recently graduated from UiA with a bachelor's in Multimedia Technology and Design, and web apps are where I spend most of my time, from real-time collaboration tools to full-stack projects. Outside the browser I make games and Garry's Mod addons, build my own game dev tools in Rust, and test Kotlin for fun.
 
+## Featured
+
+#### [Aventail 3D](https://github.com/Rhyslos/Aventail-3D)
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/wgpu-4A4A55?style=flat&logoColor=white" alt="wgpu">
+  <img src="https://img.shields.io/badge/egui-4A4A55?style=flat&logoColor=white" alt="egui">
+  <img src="https://img.shields.io/badge/status-pre--alpha-E8A33D?style=flat" alt="Status: pre-alpha">
+</p>
+
+A calm, easy-to-learn 3D modeller for game assets. It's a free, open-source tool for hard-surface modelling and UV unwrapping, with clean export to Godot and Substance Painter, so one app takes a model all the way into your pipeline. It's inspired by Cinema 4D and 3ds Max without copying either. All the core modelling tools are in: bevels, loop cuts, extrude, bridge, symmetry and more, with undo for everything. Heavy shapes of millions of polygons stay quick. The export pipeline is being built now.
+
 #### [Rhy's Library](https://github.com/Rhyslos/Rhylib-Gmod-Addon-Suite)
 
 <p>
