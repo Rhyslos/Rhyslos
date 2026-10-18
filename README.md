@@ -63,9 +63,12 @@ All my games are on [itch.io/rhyslos](https://rhyslos.itch.io/).
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/wgpu-4A4A55?style=flat&logoColor=white" alt="wgpu">
   <img src="https://img.shields.io/badge/egui-4A4A55?style=flat&logoColor=white" alt="egui">
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white" alt="Tauri">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 </details>
 
+- **[Ledger](https://github.com/Rhyslos/Ledger)** – my own code editor for Windows, built with Tauri and CodeMirror. It covers everything I work in: Rust, C# and Godot, web projects with React and Tailwind, Lua and my own language Lust, with language servers, a debugger, Git, a built-in Live Server and automatic updates.
 - **[Halberd Map Editor](https://github.com/Rhyslos/halberd)** – a modern, 3D-first map editor for Garry's Mod, built as the friendlier alternative to Hammer. It runs beyond Windows, has an all-in-one transform gizmo, and round-trips Hammer maps without losing a thing. Fast compiles, automatic optimisation and Workshop publishing are on the way.
 - **[Aventail 3D](https://github.com/Rhyslos/Aventail-3D)** – open-source hard-surface modelling and UV tool for game assets, with clean export to Godot and Substance Painter.
 
